@@ -1,4 +1,4 @@
-# Izhar Hussain 
+# Hello, Welcome! 
 
 - 🔭 I’m currently working on a self-pace project called "Typing Tutor" - creating my 3rd console application.
 - 🎓 I'm sudying Computer Science ELTE, Budapest, Hungary. Graduating in 2022-2023.
