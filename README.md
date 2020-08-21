@@ -2,7 +2,7 @@
 ## 📚 About Me:
 <a href="https://github.com/izitPro/"><img align="right" width="350" height="263" src="https://github.com/izitPro/izitPro/blob/master/misc/prof.gif"></a>
   - 🔭 I’m currently working on a self-pace project called "Typing Tutor" - creating my 3rd console application.
-  - 🎓 I'm sudying Computer Science ELTE, Budapest, Hungary. Graduating in 2022-2023.
+  - 🎓 I'm sudying Computer Science at ELTE, Budapest, Hungary. Graduating in 2022-2023.
   - 🌱 I’m currently learning VCS, Linux Server Management, Java, and Web-development. 
   - 👯 I’m looking to collaborate on any challenging project. 
   - 🤔 I’m looking for help with Linux Server Management - TIA.
