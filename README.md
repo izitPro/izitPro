@@ -1,4 +1,4 @@
-# Hello, Welcome! 
+# Welcome to my GitHub! 
 ## 📚 About Me:
 <a href="https://github.com/izitPro/"><img align="right" width="350" height="263" src="https://github.com/izitPro/izitPro/blob/master/misc/prof.gif"></a>
   - 🔭 I’m currently working on a self-pace project called "Typing Tutor" - creating my 3rd console application.
