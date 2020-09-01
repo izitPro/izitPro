@@ -1,8 +1,8 @@
 # Welcome to my GitHub! 
 ## 📚 About Me:
 <a href="https://github.com/izitPro/"><img align="right" width="350" height="263" src="https://github.com/izitPro/izitPro/blob/master/misc/prof.gif"></a>
-  - 🔭 I’m currently working on a self-paced project called "Typing Tutor" - creating an open source Typing Tutor Application using Qt.
-  - 🎓 I'm sudying Computer Science at ELTE, Budapest, Hungary. Graduating in 2022-2023.
+  - 🔭 I’m currently working on a self-paced project called "Typing Tutor" - creating an open source Typing Tutor Application - my third Console Application.
+  - 🎓 I'm sudying Computer Science at ELTE, Budapest, Hungary. Expected Graduation 2022. 
   - 🌱 I’m currently learning VCS, Linux Server Management, Java, and Web-development. 
   - 👯 I’m looking to collaborate on any challenging project. 
   - 🤔 I’m looking for help with Linux Server Management - TIA.
@@ -15,6 +15,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=izitPro&count_private=true&show_icons=true&theme=gruvbox">
   <img src="https://github-readme-stats.vercel.app/api?username=izitPro&count_private=true&show_icons=true&theme=gruvbox" /></a>
 <a href="https://github.com/izitPro/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=izitPro&layout=compact&theme=gruvbox" /></a>
+  <img width = 30%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=izitPro&layout=compact&theme=gruvbox" /></a>
   
 <p>&nbsp;</p>
