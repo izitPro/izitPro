@@ -9,6 +9,7 @@
   - 💬 Ask me about C/C++, Functional Programming, linux, Git, GitHub, shell-scripting.
   - 📫 How to reach me: izhar1022@gmail.com
   - ⚡ Fun fact: I've solved Rubik's Cube in 42 secs- ;)
+  - HELPER in the gif to the write is me. ;)
 
 ## 📈 My Stats:
 <p align="center">
