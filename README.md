@@ -10,6 +10,7 @@
   - 📫 How to reach me: izhar1022@gmail.com
   - ⚡ Fun fact: I've solved Rubik's Cube in 42 secs- ;)
   - HELPER in the gif to the right is me. ;)
+ <a href="https://github.com/izitPro"> <img src="https://komarev.com/ghpvc/?username=izitPro&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
 ## 📈 My Stats:
 <p align="center">
