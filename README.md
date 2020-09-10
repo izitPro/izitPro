@@ -13,12 +13,3 @@
 
 
 <a href="https://github.com/izitPro"> <img src="https://komarev.com/ghpvc/?username=izitPro&label=Profile+Views&color=2e8b57&style=flat" /></a>
-
-## 📈 My Stats:
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=izitPro&count_private=true&show_icons=true&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api?username=izitPro&count_private=true&show_icons=true&theme=gruvbox" /></a>
-<a href="https://github.com/izitPro/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=izitPro&layout=compact&theme=gruvbox" /></a>
-  
-<p>&nbsp;</p>
