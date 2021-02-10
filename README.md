@@ -13,6 +13,9 @@
 
 <a href="https://github.com/threepoint14159265359"> <img src="https://komarev.com/ghpvc/?username=threepoint14159265359&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <hr>
+
+<a href="https://github-profile-trophy.vercel.app/?username=threepoint14159265359&theme=onedark"> </a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=threepoint14159265359&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
