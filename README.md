@@ -17,6 +17,7 @@
 <a href="https://github-profile-trophy.vercel.app/?username=threepoint14159265359&theme=onedark"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </a></a>
 
 
+<a href="https://github-profile-trophy.vercel.app/?username=threepoint14159265359 &theme=darkhub"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </a></a> 
 
 
 <hr>
